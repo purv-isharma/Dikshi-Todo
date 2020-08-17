@@ -1,2 +1,2 @@
-# Dikshi-Todo
+# todo-practice
 Created with CodeSandbox
